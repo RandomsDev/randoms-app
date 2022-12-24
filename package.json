@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": "true",
+  "scripts": {
+    "dev": "tsc --rootDir . --outDir .randoms"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
