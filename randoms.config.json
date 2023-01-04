@@ -1,0 +1,9 @@
+{
+    "target":  "./.randoms/routes",
+    "include":  "^(?:[a-zA-Z0-9]+|\\[(?:\\.{3})?[a-zA-Z0-9]+\\])\\.js$",
+    "outputDir": "./.randoms",
+    "outputFile": "output.js",
+    "preservedFiles": {
+      "./_index.js":  ["getProps"]
+    }
+}
