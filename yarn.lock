@@ -327,14 +327,14 @@
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/chokidar-2/-/chokidar-2-2.1.8-no-fsevents.3.tgz#323d72dd25103d0c4fbdce89dadf574a787b1f9b"
   integrity sha512-s88O1aVtXftvp5bCPB7WnmXc5IwOZZ7YPuwNPt+GtOOXpPvad1LfbmjYv+qII7zP6RU2QGnqve27dnLycEnyEQ==
 
-"@randoms-pkg/code-generator@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@randoms-pkg/code-generator/-/code-generator-1.2.2.tgz#29d44e6edac5dda2e1a0c255b6198ac95bb3ba7f"
-  integrity sha512-I5s/4W1BjPk6akN5Drr7g2k6SrrOJg3qzan3uKA+wrKtGBTEho1KcYVetpX+zxA6d2bMLvpi4ueYoM0RyRjEJw==
+"@randoms-pkg/code-generator@^1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@randoms-pkg/code-generator/-/code-generator-1.3.2.tgz#be4819a907c9dd17232fc8b7f3bd9d737da3e8b0"
+  integrity sha512-Q2tzXKZ+o7YIFLEoSLLgmBpxvsgVAjzDTck3ZskQT5B9p8m3roPuecdxgUeip6r+SUlLAMm8J7UaQWTY9zURzw==
 
 "@randoms/core@https://github.com/RandomsDev/randoms-core.git":
   version "0.1.0"
-  resolved "https://github.com/RandomsDev/randoms-core.git#bade20cd3c1fe985b0c0db710c9592bd1537a1d2"
+  resolved "https://github.com/RandomsDev/randoms-core.git#5cb1791e995041ac04b40e8a48b73ddddbcc38a4"
   dependencies:
     express "^4.18.2"
 

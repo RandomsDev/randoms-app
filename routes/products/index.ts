@@ -1,10 +1,10 @@
 import Route from "@randoms/core";
 
 @Route.init ([])
-class DefaultRoute extends Route {
+class ProductRoute extends Route {
     public async get(req: Route.Request, res: Route.Response): Promise<void> {
-        res.send ('index.ts => get');
+        res.send ('./products/index => get');
     }
 }
 
-export default new DefaultRoute ();
+export default new ProductRoute ();
