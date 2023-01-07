@@ -1,4 +1,7 @@
 ## randoms app template
 
 
->> babel dist --out-dir dist
+```bash
+    # start server
+    > yarn dev 
+```
