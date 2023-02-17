@@ -1,6 +1,10 @@
 /* Add global config here */
 
-import { useMiddlewares } from "@randoms/core";
+import { useMiddlewares, MiddleWares } from "@randoms/core";
 
-console.log ("global config");
-useMiddlewares ([]);
+// application-level middlewares
+
+useMiddlewares ([
+    MiddleWares.json()
+]);
+

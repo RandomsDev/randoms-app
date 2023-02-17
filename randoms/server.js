@@ -1,3 +1,4 @@
+
 "use strict";
 
 var __importDefault = this && this.__importDefault || function (mod) {
@@ -11,5 +12,5 @@ Object.defineProperty(exports, "__esModule", {
 console.log(process.cwd());
 const core_1 = require("@randoms/core");
 const output_1 = __importDefault(require("./output.js"));
-output_1.default.default.forEach(route => route.default.path /*console.log(`Path: ${route.default.path}`)*/);
+output_1.default.default.forEach(route => route.path);
 (0, core_1.runServer)();
